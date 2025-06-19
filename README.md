@@ -58,13 +58,21 @@ cd GDP ANALYSIS
    
 📸 Sample Visualizations
 📈 All Country GDP
+
 <img src="images/All Country GDP.jpg" width="600"/>
+
 🌍 Country-wise GDP Comparison
+
 <img src="images/GDP comparison.jpg" width="600"/>
+
 🌍 India vs China GDP Comparison
+
 <img src="images/India vs China.jpg" width="600"/>
+
 🌍 India vs Italy GDP Comparison
+
 <img src="images/India vs Italy.jpg" width="600"/>
+
 
 🙋‍♂️ Developer Profile
 Avijit Paul
@@ -93,7 +101,7 @@ This project is developed for educational and GeeksforGeeks portfolio use.
 Please contact the developer for reuse in publications or tutorials.
 
 ⭐️ Support
-If you found this project helpful, feel free to ⭐ it on GitHub!
+If you found this project helpful, feel free to ⭐ it on [GitHub!](https://github.com/Avijit555/GDP-ANALYSIS.git)
 
 
 
