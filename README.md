@@ -45,16 +45,22 @@ GDP-ANALYSIS/
 
 ├── Countries GDP.html                # Overall country-wise GDP comparison
 
+
+
+
 ⚙️ Installation & Setup
 To run this app locally:
 
 1. Clone the Repository
  git clone https://github.com/Avijit555/GDP-ANALYSIS.git
 cd GDP ANALYSIS
+
 2. Install Required Libraries
    pip install -r requirements.txt
+   
 3. Launch the Notebook
    jupyter notebook gdp_analysis.ipynb
+   
    
 📸 Sample Visualizations
 📈 All Country GDP
@@ -75,12 +81,18 @@ cd GDP ANALYSIS
 
 
 🙋‍♂️ Developer Profile
+
 Avijit Paul
+
 <img src="images/avijit.jpg" alt="Avijit Paul" width="140"/>
+
 Data Enthusiast & Python Learner
+
 📧 Email: raj44042065@gmail.com
 
+
 🛠️ Tech Stack
+
 | Category            | Tools & Technologies |
 | ------------------- | -------------------- |
 | **Language**        | Python               |
@@ -88,6 +100,7 @@ Data Enthusiast & Python Learner
 | **Data Analysis**   | Pandas, NumPy        |
 | **Visualization**   | Matplotlib, Seaborn  |
 | **Version Control** | Git, GitHub          |
+
 
 📈 Future Enhancements
 
